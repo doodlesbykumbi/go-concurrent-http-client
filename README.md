@@ -1,6 +1,8 @@
 # concurrent-http-client
 
-An exploration of concurrency within the context of rate limits. Retry and concurrency limits are offered as potential solutions.
+An exploration of concurrency within the context of faulty networks, and resource and rate limits. Retry and concurrency limits are offered as potential solutions.
+
+TODO: provide examples of the faulty network issue
 
 ## Exploration
 
